@@ -1,0 +1,303 @@
+      10 /Users/kuniyoshitakuma//go/pkg/mod/golang.org/x/tools@v0.1.8/cmd/splitdwarf/internal/macho/testdata/hello.c
+      63 /Users/kuniyoshitakuma//go/pkg/mod/golang.org/x/tools@v0.1.8/container/intsets/popcnt_gccgo_c.c
+     179 /Users/kuniyoshitakuma//go/pkg/mod/golang.org/x/sys@v0.0.0-20211019181941-9d821ace8654/cpu/cpu_gccgo_x86.c
+     211 /Users/kuniyoshitakuma//go/pkg/mod/golang.org/x/sys@v0.0.0-20211019181941-9d821ace8654/unix/gccgo_c.c
+      75 /Users/kuniyoshitakuma//go/pkg/mod/golang.org/x/sys@v0.0.0-20211019181941-9d821ace8654/windows/svc/go12.c
+      10 /Users/kuniyoshitakuma//go/pkg/mod/golang.org/x/tools@v0.1.9-0.20220114220130-fd7798718afd/cmd/splitdwarf/internal/macho/testdata/hello.c
+      45 /Users/kuniyoshitakuma//Desktop/kadai.c
+      22 /Users/kuniyoshitakuma//Desktop/akamine/report1/file_file/WriteToFile.c
+      48 /Users/kuniyoshitakuma//Desktop/akamine/report1/prime_file/Prime.c
+     166 /Users/kuniyoshitakuma//Desktop/akamine/report1/WordHist_file/WordHist.c
+     108 /Users/kuniyoshitakuma//Desktop/sub/sub2.c
+     173 /Users/kuniyoshitakuma//Desktop/sub/sub.c
+      84 /Users/kuniyoshitakuma//Desktop/kadai2.c
+      61 /Users/kuniyoshitakuma//Desktop/os/write.c
+    1758 /Users/kuniyoshitakuma//Desktop/miyazato/4/files/iperf/iperf/compat/Thread.c
+     457 /Users/kuniyoshitakuma//Desktop/miyazato/4/files/iperf/iperf/compat/gettimeofday.c
+     843 /Users/kuniyoshitakuma//Desktop/miyazato/4/files/iperf/iperf/compat/inet_pton.c
+     390 /Users/kuniyoshitakuma//Desktop/miyazato/4/files/iperf/iperf/compat/string.c
+     482 /Users/kuniyoshitakuma//Desktop/miyazato/4/files/iperf/iperf/compat/snprintf.c
+     975 /Users/kuniyoshitakuma//Desktop/miyazato/4/files/iperf/iperf/compat/error.c
+     722 /Users/kuniyoshitakuma//Desktop/miyazato/4/files/iperf/iperf/compat/signal.c
+     834 /Users/kuniyoshitakuma//Desktop/miyazato/4/files/iperf/iperf/compat/inet_ntop.c
+     865 /Users/kuniyoshitakuma//Desktop/miyazato/4/files/iperf/iperf/src/sockets.c
+     614 /Users/kuniyoshitakuma//Desktop/miyazato/4/files/iperf/iperf/src/ReportCSV.c
+    1231 /Users/kuniyoshitakuma//Desktop/miyazato/4/files/iperf/iperf/src/stdio.c
+     668 /Users/kuniyoshitakuma//Desktop/miyazato/4/files/iperf/iperf/src/Extractor.c
+    1455 /Users/kuniyoshitakuma//Desktop/miyazato/4/files/iperf/iperf/src/service.c
+    1560 /Users/kuniyoshitakuma//Desktop/miyazato/4/files/iperf/iperf/src/SocketAddr.c
+    1440 /Users/kuniyoshitakuma//Desktop/miyazato/4/files/iperf/iperf/src/Locale.c
+    1108 /Users/kuniyoshitakuma//Desktop/miyazato/4/files/iperf/iperf/src/ReportDefault.c
+     606 /Users/kuniyoshitakuma//Desktop/miyazato/4/files/iperf/iperf/src/gnu_getopt_long.c
+     831 /Users/kuniyoshitakuma//Desktop/miyazato/4/files/iperf/iperf/src/tcp_window_size.c
+    3631 /Users/kuniyoshitakuma//Desktop/miyazato/4/files/iperf/iperf/src/Reporter.c
+    3949 /Users/kuniyoshitakuma//Desktop/miyazato/4/files/iperf/iperf/src/gnu_getopt.c
+       7 /Users/kuniyoshitakuma//Desktop/miyazato/2/10.c
+     117 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_skx.c
+      99 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_f16c.c
+     138 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/extra_avx512f_reduce.c
+      87 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_ssse3.c
+      87 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse42.c
+      87 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse3.c
+      21 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_xop.c
+      59 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_vsx.c
+      90 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512cd.c
+      53 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_neon_vfpv4.c
+      43 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_asimddp.c
+      62 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/extra_avx512bw_mask.c
+      92 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx.c
+      86 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse41.c
+      32 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_vsx2.c
+     113 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_knl.c
+     135 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_popcnt.c
+      87 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse.c
+      41 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_neon.c
+      54 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/extra_avx512dq_mask.c
+      90 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512f.c
+      90 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx2.c
+      30 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_neon_fp16.c
+      33 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_vsx3.c
+      29 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_fma4.c
+     134 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_knm.c
+     110 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_cnl.c
+      73 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_asimd.c
+     126 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/extra_vsx_asm.c
+      42 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_asimdfhm.c
+      32 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_asimdhp.c
+     100 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_clx.c
+     116 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_icl.c
+      87 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse2.c
+      99 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_fma3.c
+       2 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/test_flags.c
+      10 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/mingw/gfortran_vs2003_hack.c
+     540 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/f2py/tests/src/array_from_pyobj/wrapmodule.c
+    3239 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/numpy/f2py/src/fortranobject.c
+    3343 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/tslibs/src/datetime/np_datetime_strings.c
+    2818 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/tslibs/src/datetime/np_datetime.c
+     466 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/python/ujson.c
+    1891 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/python/JSONtoObj.c
+    5661 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/python/objToJSON.c
+     473 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/python/date_conversions.c
+    3200 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/lib/ultrajsonenc.c
+    2857 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/lib/ultrajsondec.c
+     238 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/parser/io.c
+    6816 /Users/kuniyoshitakuma//Desktop/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/parser/tokenizer.c
+     117 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_skx.c
+      99 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_f16c.c
+     138 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/extra_avx512f_reduce.c
+      87 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_ssse3.c
+      87 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse42.c
+      87 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse3.c
+      21 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_xop.c
+      59 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_vsx.c
+      90 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512cd.c
+      53 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_neon_vfpv4.c
+      43 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_asimddp.c
+      62 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/extra_avx512bw_mask.c
+      92 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx.c
+      86 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse41.c
+      32 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_vsx2.c
+     113 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_knl.c
+     135 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_popcnt.c
+      87 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse.c
+      41 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_neon.c
+      54 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/extra_avx512dq_mask.c
+      90 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512f.c
+      90 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx2.c
+      30 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_neon_fp16.c
+      33 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_vsx3.c
+      29 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_fma4.c
+     134 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_knm.c
+     110 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_cnl.c
+      73 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_asimd.c
+     126 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/extra_vsx_asm.c
+      42 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_asimdfhm.c
+      32 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_asimdhp.c
+     100 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_clx.c
+     116 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_icl.c
+      87 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse2.c
+      99 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_fma3.c
+       2 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/test_flags.c
+      10 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/mingw/gfortran_vs2003_hack.c
+     540 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/f2py/tests/src/array_from_pyobj/wrapmodule.c
+    3239 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/numpy/f2py/src/fortranobject.c
+    3343 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/tslibs/src/datetime/np_datetime_strings.c
+    2818 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/tslibs/src/datetime/np_datetime.c
+     466 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/python/ujson.c
+    1891 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/python/JSONtoObj.c
+    5661 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/python/objToJSON.c
+     473 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/python/date_conversions.c
+    3200 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/lib/ultrajsonenc.c
+    2857 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/lib/ultrajsondec.c
+     238 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/parser/io.c
+    6816 /Users/kuniyoshitakuma//Desktop/credit_checker/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/parser/tokenizer.c
+      61 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/write 15.56.06.c
+     117 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_skx.c
+      99 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_f16c.c
+     138 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/extra_avx512f_reduce.c
+      87 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_ssse3.c
+      87 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse42.c
+      87 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse3.c
+      21 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_xop.c
+      59 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_vsx.c
+      90 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512cd.c
+      53 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_neon_vfpv4.c
+      43 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_asimddp.c
+      62 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/extra_avx512bw_mask.c
+      92 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx.c
+      86 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse41.c
+      32 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_vsx2.c
+     113 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_knl.c
+     135 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_popcnt.c
+      87 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse.c
+      41 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_neon.c
+      54 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/extra_avx512dq_mask.c
+      90 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512f.c
+      90 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx2.c
+      30 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_neon_fp16.c
+      33 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_vsx3.c
+      29 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_fma4.c
+     134 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_knm.c
+     110 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_cnl.c
+      73 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_asimd.c
+     126 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/extra_vsx_asm.c
+      42 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_asimdfhm.c
+      32 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_asimdhp.c
+     100 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_clx.c
+     116 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_icl.c
+      87 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse2.c
+      99 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_fma3.c
+       2 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/checks/test_flags.c
+      10 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/distutils/mingw/gfortran_vs2003_hack.c
+     540 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/f2py/tests/src/array_from_pyobj/wrapmodule.c
+    3239 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/numpy/f2py/src/fortranobject.c
+    3343 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/pandas/_libs/tslibs/src/datetime/np_datetime_strings.c
+    2818 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/pandas/_libs/tslibs/src/datetime/np_datetime.c
+     466 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/python/ujson.c
+    1891 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/python/JSONtoObj.c
+    5661 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/python/objToJSON.c
+     473 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/python/date_conversions.c
+    3200 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/lib/ultrajsonenc.c
+    2857 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/lib/ultrajsondec.c
+     238 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/pandas/_libs/src/parser/io.c
+    6816 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker1/venv/lib/python3.9/site-packages/pandas/_libs/src/parser/tokenizer.c
+      12 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/write.c
+     117 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_skx.c
+      99 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_f16c.c
+     138 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/extra_avx512f_reduce.c
+      87 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_ssse3.c
+      87 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse42.c
+      87 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse3.c
+      21 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_xop.c
+      59 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_vsx.c
+      90 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512cd.c
+      53 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_neon_vfpv4.c
+      43 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_asimddp.c
+      62 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/extra_avx512bw_mask.c
+      92 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx.c
+      86 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse41.c
+      32 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_vsx2.c
+     113 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_knl.c
+     135 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_popcnt.c
+      87 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse.c
+      41 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_neon.c
+      54 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/extra_avx512dq_mask.c
+      90 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512f.c
+      90 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx2.c
+      30 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_neon_fp16.c
+      33 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_vsx3.c
+      29 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_fma4.c
+     134 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_knm.c
+     110 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_cnl.c
+      73 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_asimd.c
+     126 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/extra_vsx_asm.c
+      42 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_asimdfhm.c
+      32 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_asimdhp.c
+     100 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_clx.c
+     116 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_icl.c
+      87 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse2.c
+      99 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_fma3.c
+       2 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/test_flags.c
+      10 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/mingw/gfortran_vs2003_hack.c
+     540 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/f2py/tests/src/array_from_pyobj/wrapmodule.c
+    3239 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/f2py/src/fortranobject.c
+    3343 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/tslibs/src/datetime/np_datetime_strings.c
+    2818 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/tslibs/src/datetime/np_datetime.c
+     466 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/python/ujson.c
+    1891 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/python/JSONtoObj.c
+    5661 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/python/objToJSON.c
+     473 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/python/date_conversions.c
+    3200 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/lib/ultrajsonenc.c
+    2857 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/lib/ultrajsondec.c
+     238 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/parser/io.c
+    6816 /Users/kuniyoshitakuma//Library/Mobile Documents/com~apple~CloudDocs/.Trash/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/parser/tokenizer.c
+      21 /Users/kuniyoshitakuma//prog2/Akamine/ex1.c
+      61 /Users/kuniyoshitakuma//prog2/Akamine/exe3.c
+      70 /Users/kuniyoshitakuma//prog2/Akamine/ex2.c
+      26 /Users/kuniyoshitakuma//prog2/Akamine/ex3.c
+      26 /Users/kuniyoshitakuma//prog2/Akamine/exe1.c
+      46 /Users/kuniyoshitakuma//prog2/Akamine/exe2.c
+      31 /Users/kuniyoshitakuma//prog2/Akamine/ex4.c
+      69 /Users/kuniyoshitakuma//prog2/week14/kadai.c
+      29 /Users/kuniyoshitakuma//prog2/week14/sample2.c
+       7 /Users/kuniyoshitakuma//prog2/week14/sample1.c
+      54 /Users/kuniyoshitakuma//prog2/week14/sample4.c
+      24 /Users/kuniyoshitakuma//prog2/week14/sample3.c
+     117 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_skx.c
+      99 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_f16c.c
+     138 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/extra_avx512f_reduce.c
+      87 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_ssse3.c
+      87 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse42.c
+      87 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse3.c
+      21 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_xop.c
+      59 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_vsx.c
+      90 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512cd.c
+      53 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_neon_vfpv4.c
+      43 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_asimddp.c
+      62 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/extra_avx512bw_mask.c
+      92 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx.c
+      86 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse41.c
+      32 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_vsx2.c
+     113 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_knl.c
+     135 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_popcnt.c
+      87 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse.c
+      41 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_neon.c
+      54 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/extra_avx512dq_mask.c
+      90 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512f.c
+      90 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx2.c
+      30 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_neon_fp16.c
+      33 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_vsx3.c
+      29 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_fma4.c
+     134 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_knm.c
+     110 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_cnl.c
+      73 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_asimd.c
+     126 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/extra_vsx_asm.c
+      42 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_asimdfhm.c
+      32 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_asimdhp.c
+     100 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_clx.c
+     116 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_avx512_icl.c
+      87 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_sse2.c
+      99 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/cpu_fma3.c
+       2 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/checks/test_flags.c
+      10 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/distutils/mingw/gfortran_vs2003_hack.c
+     540 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/f2py/tests/src/array_from_pyobj/wrapmodule.c
+    3239 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/numpy/f2py/src/fortranobject.c
+    3343 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/tslibs/src/datetime/np_datetime_strings.c
+    2818 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/tslibs/src/datetime/np_datetime.c
+     466 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/python/ujson.c
+    1891 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/python/JSONtoObj.c
+    5661 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/python/objToJSON.c
+     473 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/python/date_conversions.c
+    3200 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/lib/ultrajsonenc.c
+    2857 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/ujson/lib/ultrajsondec.c
+     238 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/parser/io.c
+    6816 /Users/kuniyoshitakuma//.Trash/credit_checker/venv/lib/python3.9/site-packages/pandas/_libs/src/parser/tokenizer.c
+  145730 /Users/kuniyoshitakuma//.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/_vendored/pydevd/_pydevd_bundle/pydevd_cython.c
+   68727 /Users/kuniyoshitakuma//.vscode/extensions/ms-python.python-2021.12.1559732655/pythonFiles/lib/python/debugpy/_vendored/pydevd/_pydevd_frame_eval/pydevd_frame_evaluator.c
+  145730 /Users/kuniyoshitakuma//.vscode/extensions/ms-python.python-2022.0.1814523869/pythonFiles/lib/python/debugpy/_vendored/pydevd/_pydevd_bundle/pydevd_cython.c
+   68727 /Users/kuniyoshitakuma//.vscode/extensions/ms-python.python-2022.0.1814523869/pythonFiles/lib/python/debugpy/_vendored/pydevd/_pydevd_frame_eval/pydevd_frame_evaluator.c
+  145730 /Users/kuniyoshitakuma//.vscode/extensions/ms-python.python-2022.0.1786462952/pythonFiles/lib/python/debugpy/_vendored/pydevd/_pydevd_bundle/pydevd_cython.c
+   68727 /Users/kuniyoshitakuma//.vscode/extensions/ms-python.python-2022.0.1786462952/pythonFiles/lib/python/debugpy/_vendored/pydevd/_pydevd_frame_eval/pydevd_frame_evaluator.c
+      44 /Users/kuniyoshitakuma//Downloads/aoj1.c
+      61 /Users/kuniyoshitakuma//Downloads/write.c
+  841334 total
